@@ -57,7 +57,7 @@ hosted in railway app
 
 # 🎥 Demo Video
 
-(Add YouTube/Loom URL)
+(https://youtu.be/XcAwlp5rikM?si=gkmTRSUNbJGqI8OV)
 
 ---
 
@@ -65,12 +65,69 @@ hosted in railway app
 
 Modern landing page introducing the AI-native CRM.
 
-![](images/images/landing.png)
+![](images/landing.png)
 
 ---
 
 # Features
+---
 
+### 🤖 AI-Native CRM Assistant
+Interact with the CRM using natural language powered by Gemini AI.
+
+- Query customer and campaign data
+- Generate campaign strategies
+- Create campaigns conversationally
+
+---
+
+### 👥 Customer Management
+Manage customer information and behavioral data.
+
+- View customer profiles
+- Track spending and activity
+- Customer insights dashboard
+
+---
+
+### 🎯 Smart Audience Segmentation
+Create targeted customer groups.
+
+- Rule-based segmentation
+- Customer filtering
+- Segment analytics
+
+---
+
+### 📢 Campaign Management
+Launch and monitor marketing campaigns.
+
+- Create campaigns
+- Personalized messaging
+- Campaign tracking
+
+---
+
+### 🔄 Callback-Based Delivery Simulation
+Simulates real-world communication channels.
+
+- Delivery events
+- Open events
+- Click events
+- Failed deliveries
+
+---
+
+### 📈 Analytics Dashboard
+Monitor engagement and campaign performance.
+
+- Revenue attribution
+- Open rates
+- Delivery statistics
+- Channel distribution
+- Engagement trends
+
+---
 ---
 
 # 📊 Dashboard
@@ -82,7 +139,7 @@ Get an overview of:
 - Active campaigns
 - Delivery statistics
 
-![](images/images/dashboard.png)
+![](images/dashboard.png)
 
 ---
 
@@ -90,7 +147,7 @@ Get an overview of:
 
 Manage customer information and activity.
 
-![](images/images/customers.png)
+![](images/customers.png)
 
 ---
 
@@ -100,11 +157,11 @@ Create customer audiences intelligently.
 
 ### Segment Builder
 
-![](images/images/segment1.png)
+![](images/segment1.png)
 
 ### Segment Results
 
-![](images/images/segment2.png)
+![](images/segment2.png)
 
 ---
 
@@ -112,7 +169,7 @@ Create customer audiences intelligently.
 
 Launch and monitor campaigns.
 
-![](images/images/campaign.png)
+![](images/campaign.png)
 
 ---
 
@@ -125,7 +182,7 @@ Examples:
 - "How many customers do we have?"
 - "Re-engage customers who haven't bought in 60 days with a 15% discount."
 
-![](images/images/aiassistant.png)
+![](images/aiassistant.png)
 
 ---
 
@@ -135,11 +192,11 @@ Visualize campaign performance.
 
 ### Engagement Trends
 
-![](images/images/analytics1.png)
+![](images/analytics1.png)
 
 ### Channel Distribution
 
-![](images/images/analytics2.png)
+![](images/analytics2.png)
 
 ---
 
@@ -147,7 +204,7 @@ Visualize campaign performance.
 
 Two-service callback-driven architecture.
 
-![](images/images/architecture.png)
+![](images/architecture.png)
 
 ---
 
