@@ -51,7 +51,7 @@ https://mini-crm-ormb.vercel.app
 
 **Railway**
 
-https://mini-crm-production-0ae9.up.railway.app
+https://mini-crm-prod.up.railway.app
 
 ---
 
