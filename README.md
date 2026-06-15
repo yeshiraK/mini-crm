@@ -51,7 +51,7 @@ https://mini-crm-ormb.vercel.app
 
 **Railway**
 
-https://mini-crm-prod.up.railway.app
+hosted in railway app
 
 ---
 
